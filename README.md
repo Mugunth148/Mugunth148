@@ -6,6 +6,8 @@ I used to build front-end Projects with an graet Looking UI and user Experience 
 
 I'm proficient in HTML, CSS, and JavaScript. I'm also familiar with a variety of front-end frameworks and libraries 👀, including Bootstrap, Tailwind and i'm also learning React. I have experience with version control systems 🧑‍💻 like Git and GitHub, and I'm familiar with the basics of web development best practices.
 
+Skilled 3D modeler with experience, including Texturing,UV Mapping, 🏃Animation, and Simulation. Proven ability to create high-quality, realistic models🕸️that meet or exceed client expectations. Expertise in a variety of 3D modeling software, including Blender and ZBrush.
+
 I'm a quick learner and I'm always eager to take on new challenges and i like to debug 👨‍🔧. I'm confident that I can be a valuable 😼asset to any team.
 
 If you're looking for a talented 🙃 and motivated front-end developer, please don't hesitate to contact me💬.
