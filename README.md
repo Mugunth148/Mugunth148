@@ -1,4 +1,4 @@
-### Hello! I'm 👋 Mugunth , i'm a fresher in  front-end developing.
+### Hello! I'm 👋 Mugunth
 
 I'm passionate 🫡 about creating beautiful and user-friendly web experiences. I'm eager to learn new technologies and techniques, and I'm always looking 🤔 for ways to improve my skills.
 
